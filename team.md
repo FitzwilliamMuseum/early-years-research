@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /team/
-title: Meet the {{ site.title}} team
+title: Meet the team
 id: team
 ---
 

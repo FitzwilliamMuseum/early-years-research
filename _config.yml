@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "Nursery in Residence"
+title: "Early Years Research"
 
 locale: "en-GB"
 
@@ -23,7 +23,7 @@ title_separator: "-"
 email: dejp3@cam.ac.uk
 
 description: >-
-  The Fitzwilliam Museum's Nursery in Residence project.
+  The Fitzwilliam Museum's Early Years research projects.
 
 words_per_minute: 200
 

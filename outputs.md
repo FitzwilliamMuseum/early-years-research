@@ -14,7 +14,7 @@ You can download the [executive summary](/assets/pdfs/executive-summary.pdf) and
 
 * Noble, K (2018) UCM Nursery in Residence, Engage Conference: A Social Prescription, Manchester, 13 November 2018
 
-* Wallis, N (2018) My Nursery School is at the Museum and Garden – Making Space for Children, symposium presentation at The European Early Childhood Education Research Association Annual Conference in Budapest (http://www.eecera2018.org)  
+* Wallis, N (2018) My Nursery School is at the Museum and Garden – Making Space for Children, symposium presentation at The European Early Childhood Education Research Association Annual Conference in Budapest ([http://www.eecera2018.org](http://www.eecera2018.org))  
 
 * Plent, F & Richards, B (2018) Botany and Art: Linking two Museums to Reach a New Audience, The 10th International Congress on Education in Botanic Gardens in Warsaw www.garden.uw.edu.pl/congress2018.
 

@@ -88,14 +88,15 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  jekyll (~> 3.8.4)
+  jekyll
   jekyll-feed
   jekyll-mentions
   jekyll-seo-tag
   jekyll-sitemap
   jemoji
-  nokogiri (>= 1.10.4)
+  kramdown
+  nokogiri
   tzinfo-data
 
 BUNDLED WITH
-   2.0.1
+   2.1.4
